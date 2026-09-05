@@ -1,0 +1,12 @@
+# virtualenv
+.venv/
+
+# generated plots
+slide*.png
+
+# python
+__pycache__/
+*.py[cod]
+
+# pyscf scratch
+*.chk
